@@ -38,14 +38,12 @@ Courriel : itStudent009@gmail.com
 <p4> <b>D - CAPACITÉS </b>: organisée, minutieuse, compréhension et respect des règles et directives, établir des priorités.
 </p4><br/>
 <br/>
-
 <p5> <b>E - EMPLOI</b></p5><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Juin/août 2015 : prestataire de services bénévole pour une nonagénaire à St-Patrick.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 2008 à 2012 : Bénévole au Festival l’Outaouais en Fête (kiosque de vente et d’information).<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 2007 à 9 : Tutorat d’élèves au Lycée (informatique, maths et français).<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 2006 : Formation de deux semaines en supervision des jeunes à un camp d’été.<br/>
 <br/>
-
 <p6><b>F - ACTIVITÉS</b></p6><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 2007 à 2013 : Ski, formation jusqu’au niveau intermédiaire au Mont Cascade.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 2004 à 8 : Natation, formation jusqu’au niveau Argent à la Sporthèque.<br/>
@@ -54,7 +52,6 @@ Courriel : itStudent009@gmail.com
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- VOYAGES en été : 2007 en Europe; 2008 à Québec (400e anniversaire de sa fondation); 2009 en France<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pour le mariage de mon cousin; 2011 à Chicago où habite ma cousine; 2012 en France; 2013 aux USA à Sackets Harbour NY; et 2015 à San Francisco où habite ma cousine.<br/>
 <br/>
-
 <p7><b>G - PRIX</b></p7><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lauréate de concours de dessins de 2003 à 2007.
 <br/><br/>
