@@ -3,13 +3,11 @@
 *TP2 : faire une page html et css de notre CV inventé.
 */
 <html>
-
 <head>
-  <h1>
+<h1>
 <p align=middle > CURRICULUM VITAE </p>
 </h1>
 </head>
-
 <body>
 <p>
 <div style="float:left;"><img src="book.jpg" height="200" width="150" alt="" /></div><div>
@@ -21,7 +19,6 @@ Tel cell : (111)234-6758 <br/>
 Courriel : itStudent009@gmail.com
 <br/>
 </div>
-<br/><br/><br/><br/>
 </p>
 <p1> <b> A - EDUCATION / FORMATION </b></p1><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015/16 – Étudie : baccalauréat en informatique à l’UQO, Gatineau.  <br/>
